@@ -10,7 +10,8 @@ import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * This is a text assignment used to simulate writing java unit tests. 
+ * This is a text assignment used to simulate writing java unit tests.
+ * *used with permission from professor Gilbert in the Software and Quality Testing course, Mohawk College*
  * The use of lambda functions is from the lab syntax, the use of nested lambda functions and premptive timeout
  * clauses was dervied from the inclass discussion on timeout solutions on 2026-10-23
  * all bug cases and descriptions:
